@@ -1,2 +1,2 @@
 # Java-study
-infrean study
+inflrean study
